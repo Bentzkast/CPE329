@@ -1,0 +1,12 @@
+10
+Cat
+Dog
+Butterfly
+Cattle
+Zebra
+Elephant
+Cats
+Fish
+Hippo
+Cat
+
